@@ -1,1 +1,1 @@
-# MPU9250-driver-for-TM4C123
+# MPU9250 driver for TM4C123.
