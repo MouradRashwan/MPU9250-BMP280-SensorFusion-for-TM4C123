@@ -1,1 +1,1 @@
-# MPU9250 & BMP280 driver for TM4C123.
+# MPU9250, BMP280 and Sensor Fusion drivers for TM4C123.
